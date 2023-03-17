@@ -40,14 +40,14 @@ showScrollToTop = true
 [homepage]
 layout = "hero" # valid options: page, profile, hero, card, background, custom
 # TODO Use high res or another image
-homepageImage = "img/home.jpg"  # used in: hero, and card
+homepageImage = "img/home.jpg" # used in: hero, and card
 showRecent = true
 showRecentItems = 5
 showMoreLink = true
-showMoreLinkDest = "blog/posts"
+showMoreLinkDest = "posts"
 cardView = false
 cardViewScreenWidth = false
-layoutBackgroundBlur = false    # only used when layout equals background
+layoutBackgroundBlur = false   # only used when layout equals background
 
 [article]
 showDate = true
