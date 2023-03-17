@@ -6,7 +6,8 @@ weight = 1
 rtl = false
 
 title = "Tolki's Blog"
-description = "Gaming, Software Development, Data Science, and Fitness"
+# TODO REVIEW WHICH GOES WHERE
+description = "Gaming, Software Development, Data Science, Fitness"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 dateFormat = "2 January 2006"
@@ -15,9 +16,9 @@ dateFormat = "2 January 2006"
 [author]
 name = "Gary <Tolki> Mialaret"
 image = "img/portrait_lowres.jpg"
-headline = "Gaming, Software Development, Data Science, and Fitness"
+headline = "Gaming, Software Development, Data Science, Fitness"
 # TODO Review (end of
-bio = "Gaming, Software Development, Data Science, and Fitness"
+bio = "Gaming, Software Development, Data Science, Fitness"
 links = [
     #     { email = "mailto:hello@your_domain.com" },
     #     { link = "https://link-to-some-website.com/" },
