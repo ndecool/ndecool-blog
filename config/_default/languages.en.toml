@@ -12,12 +12,12 @@ description = "Gaming, Software Development, Data Science, Fitness"
 
 dateFormat = "2 January 2006"
 
-# TODO A little bit about you
 [author]
+# TODO Review -> About page?
 name = "Gary <Tolki> Mialaret"
 image = "img/portrait_lowres.jpg"
 headline = "Gaming, Software Development, Data Science, Fitness"
-# TODO Review (end of
+# TODO Review (end of pages)
 bio = "Gaming, Software Development, Data Science, Fitness"
 links = [
     #     { email = "mailto:hello@your_domain.com" },
