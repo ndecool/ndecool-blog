@@ -9,7 +9,7 @@ tags:
   - VSCode
   - Vim
 header:
-  image: /assets/images/2023_01.png
+  image: img/jekyll/2023_01.png
 comments: true
 ---
 

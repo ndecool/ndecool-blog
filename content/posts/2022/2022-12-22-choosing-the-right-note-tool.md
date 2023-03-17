@@ -7,7 +7,7 @@ tags:
 - Obsidian
 - PKM
 header:
-  image: /assets/images/obs_not.png
+  image: img/jekyll/obs_not.png
 ---
 
 The biggest reason I've managed to enter [École polytechnique](https://en.wikipedia.org/wiki/%C3%89cole_polytechnique) is my note-taking love coupled with my ability to synthetize.

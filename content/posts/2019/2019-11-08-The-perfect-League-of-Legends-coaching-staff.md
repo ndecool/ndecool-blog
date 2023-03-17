@@ -16,7 +16,7 @@ During my time at Splyce I have experienced a successful coaching organization t
 
 Before we dive too deeply into what this means, let us talk a little bit about the Splyce organization and how it informed my vision for an ideal coaching staff
 
-![Splyce’s competitive staff](/assets/images/1__khjcdNWHFJCLTUZnTgn61w.png)
+![Splyce’s competitive staff](img/jekyll/1__khjcdNWHFJCLTUZnTgn61w.png)
 
 *Splyce’s competitive staff*
 
@@ -60,7 +60,7 @@ In my eyes, the perfect coaching staff should work closely together to only pres
 
 I will not shock anybody when I say a setup of head coach, strategic coach, and analyst is likely the best for League of Legends. Despite this, I think it is important to understand what each person is supposed to bring to the team.
 
-![](/assets/images/0__iBOWgLMErZsiNKDr.jpg)
+![](img/jekyll/0__iBOWgLMErZsiNKDr.jpg)
 
 Players’ time is the most valuable commodity, and the head coach role is to ensure only necessary information gets to them. On the other side, the strategic coach and analyst work together and provide the head coach with support to take the right decisions.
 

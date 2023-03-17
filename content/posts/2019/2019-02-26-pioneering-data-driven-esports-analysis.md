@@ -47,7 +47,7 @@ I therefore took a look at existing libraries from the community. I chose **Pyth
 
 This is when I discovered [Cassiopeia](https://github.com/meraki-analytics/cassiopeia), a community-built library including an [SQL storage solution](https://github.com/meraki-analytics/cassiopeia-datastores/tree/master/cassiopeia-sqlstore/cassiopeia_sqlstore). This looked like a godsend, and I spent some time getting it to work before realizing the SQL storage wasn’t updated for the latest version of the API.
 
-![My first database structure, mirroring Riot’s data](/assets/images/1__5ow4gnMYaN9ZiHdD5eJcYQ.png)
+![My first database structure, mirroring Riot’s data](img/jekyll/1__5ow4gnMYaN9ZiHdD5eJcYQ.png)
 
 * *My first database structure, mirroring Riot’s data*
 
@@ -61,7 +61,7 @@ At this point, I was well set up. I had my t2.micro instance running a parser ca
 
 Data was well organized in my database, and I started analyzing it. I wrote a patch 9.2 analysis report for my team, focusing on data not publicly available like overall rune and item win-rate. I used the underlying SQL alchemy implementation in Cassiopeia to directly query the database.
 
-![](/assets/images/1__NkAyIPU9Lc0avF__6JX8J0w.png)
+![](img/jekyll/1__NkAyIPU9Lc0avF__6JX8J0w.png)
 
 Looking at this data helped us gain a better understanding of the game. A rune only used by a subset of champions having a high win-rate means this group of champions is strong, and it influenced our picks and bans on stage. Spoiler alert: Aftershock is OP.
 
@@ -85,7 +85,7 @@ Once again, providing quick results was key in cementing myself as a useful memb
 
 After finishing development of scripts to serve data to the team, I decided to re-start the whole development from scratch!
 
-![Current database structure](/assets/images/1__bWYt9yiPsLrhAB44yj8hKw.png)
+![Current database structure](img/jekyll/1__bWYt9yiPsLrhAB44yj8hKw.png)
 
 *Current database structure*
 

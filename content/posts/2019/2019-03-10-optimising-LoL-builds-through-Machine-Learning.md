@@ -23,7 +23,7 @@ Thankfully, I have at my disposition 300 000 games where I know the final damage
 
 My first idea was using a linear regression so I could easily access the model’s coefficients. I had the intuition that damage was highly correlated to items, and that after normalizing damage output on a few factors it would be possible to predict it decently enough only from items. I therefore started to craft a “damage metric” that was as correlated as possible to the items. I also restricted my analysis to games between 20 and 40 minutes, because games outside of this range have a high chance of being outliers.
 
-![](/assets/images/1__jKjA6oOpNulbLK96wpCiRQ.png)
+![](img/jekyll/1__jKjA6oOpNulbLK96wpCiRQ.png)
 
 The usual “scaled” metric used by analysts is DPS, total damage divided by game duration, but since marksmen damage doesn’t progress linearly over the course of the game it was still highly correlated to game duration. Another important factor in damage output is the result of the game, with marksmen being able to dish out much more damage in victories, especially shorter ones.
 
@@ -46,8 +46,8 @@ predictions = lm.predict(X\_test)
 plt.scatter(y\_test, predictions)  
 plt.show()
 
-![actual result (x) against predictions (y)](/assets/images/1__s__quYUi__CZitsXJZ4TrXGQ.png)
-actual result (x) against predictions (y)![Items coefficients histogram](/assets/images/1__BfMivyhEyAY__Em____armwJw.png)
+![actual result (x) against predictions (y)](img/jekyll/1__s__quYUi__CZitsXJZ4TrXGQ.png)
+actual result (x) against predictions (y)![Items coefficients histogram](img/jekyll/1__BfMivyhEyAY__Em____armwJw.png)
 Items coefficients histogram
 
 As you can see, accuracy wasn’t great. At the same time, I saw there was definitely some correlation. I already took a look at those coefficients, and they were coherent with our current understanding of the game, with Infinity Edge coupled with Zeal items displaying the highest values.
@@ -58,13 +58,13 @@ Even with a neural network, my results were very similar, with only a 10% precis
 
 I therefore added the champion used as another layer of normalisation on the DPS score I crafted.
 
-![Same graph as before, but with dps\_score including normalisation on the champion used](/assets/images/1__YiMKy5zmDs5thiM__zIg__Yg.png)
+![Same graph as before, but with dps\_score including normalisation on the champion used](img/jekyll/1__YiMKy5zmDs5thiM__zIg__Yg.png)
 
 *Same graph as before, but with dps\_score including normalisation on the champion used*
 
 That’s even worse. The difficulty at that point was clearly that taking all champions into account at once was very tough, as champions will use items with varying efficiency. Where Infinity Edge increases DPS the most on Sivir, maybe Guinsoo was best at increasing DPS on Kai’Sa. I therefore decided to reduce the scope and run the algorithm on a single champion to see if I would get a higher accuracy.
 
-![dps score against predictions for a single champion (Sivir)](/assets/images/1__q__A3vXP1KbA9foUOicVtRA.png)
+![dps score against predictions for a single champion (Sivir)](img/jekyll/1__q__A3vXP1KbA9foUOicVtRA.png)
 
 *dps score against predictions for a single champion (Sivir)*
 
@@ -86,7 +86,7 @@ To do that, I tried to group similar effects as much as I could. For example, I 
 
 Finally, I used a one-hot encoding for items which had tough to model effects. This meant the factor in front of those values would represent the price of the effects. You can see this as a constant linked to the item, which means all those items would end up perfectly “predicted” by the linear regression.
 
-![Items gold price vs predicted gold price from a linear regression](/assets/images/1__PX14VRdwRcmVt1pIzOHB9w.png)
+![Items gold price vs predicted gold price from a linear regression](img/jekyll/1__PX14VRdwRcmVt1pIzOHB9w.png)
 
 *Items gold price vs predicted gold price from a linear regression*
 

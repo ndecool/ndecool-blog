@@ -9,7 +9,7 @@ tags:
 
 # TODO Find a header
 # header:
-#   image: /assets/images/2023_05.png
+#   image: img/jekyll/2023_05.png
 ---
 
 I'm a decision-making nerd.

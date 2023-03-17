@@ -7,7 +7,7 @@ tags:
   - Docker
   - PyCharm
 header:
-  image: /assets/images/docker-python.png
+  image: img/jekyll/docker-python.png
 toc_sticky: false
 ---
 

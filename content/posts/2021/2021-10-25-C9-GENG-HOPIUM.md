@@ -6,7 +6,7 @@ tags:
   - LoL
   - Data
 header:
-  image: /assets/images/worlds_2021_bracket.png
+  image: img/jekyll/worlds_2021_bracket.png
 ---
 
 # C9

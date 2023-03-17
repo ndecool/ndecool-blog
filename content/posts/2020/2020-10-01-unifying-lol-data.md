@@ -7,7 +7,7 @@ tags:
   - Python
   - Data
 header:
-  image: /assets/images/lol_dto.png
+  image: img/jekyll/lol_dto.png
 ---
 
 In my two years working on League of Legends data, I have acquired data from:
