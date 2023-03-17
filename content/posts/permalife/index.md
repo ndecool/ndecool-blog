@@ -1,7 +1,6 @@
 ---
 title: "Superlife"
 date: 2023-03-17T15:23:20+09:00
-draft: true
 ---
 
 ## Hello
