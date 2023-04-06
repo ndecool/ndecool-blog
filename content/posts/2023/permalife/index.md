@@ -26,7 +26,8 @@ Useful steps to increase happiness are:
   - Dedicate time for your own improvement
   - Lighten your cognitive load with personal knowledge management
 - Working out often
-  - Both cardio and and strength training are **required**
+  - Better health outcomes
+  - Better focus and sleep
 
 Possible avenues to do with this are:
 
@@ -173,7 +174,7 @@ Common Sense Investing made a great video on the subject:
 A short overview of the video is that:
 
 - Money is a necessity to meet basic needs and reduce stress
-- Time is more valuable than money once [income satiation for experienced happiness is reached (~60k USD/year)](https://www.nature.com/articles/s41562-017-0277-0)
+- [Income has diminishing returns on happiness](https://www.nature.com/articles/s41562-017-0277-0) so don't sacrifice your time for it
 - Spending on expensive goods rarely increases happiness because of [hedonic adaptation](https://en.wikipedia.org/wiki/Hedonic_treadmill)
   - We tend to quickly adapt to our situation, and a bigger home or better car rarely translates into sustained increased happiness
 - The best **experiences** don't have to be expensive and frugality has a positive impact on happiness
