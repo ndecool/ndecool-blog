@@ -1,6 +1,6 @@
 ---
 title: "Optimizing a life for happiness"
-date: 2023-03-30T00:23:20+09:00
+date: 2023-04-06
 ---
 
 This post is aimed at people who meet their basic needs but still don't feel "happy", aka most people following me on Twitter and my immediate family. This is definitely a privileged position.
