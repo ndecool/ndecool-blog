@@ -1,49 +1,44 @@
 ---
-title: "Optimizing your life"
+title: "Optimizing a life for happiness"
 date: 2023-03-30T00:23:20+09:00
 ---
 
-Happiness is the goal.
+This post is aimed at people who meet their basic needs but still don't feel "happy", aka most people following me on Twitter and my immediate family. This is definitely a privileged position.
 
-Health, wealth, and success are some of the means.
+I've met tons of people who had everything going for them and still struggled at being and staying happy.
 
-I spent much time in the past two years pouring over those topics. I've always been an optimization nerd at heart and listening to the [Rational Reminder Podcast](https://rationalreminder.ca/) for the last two years turned it up to eleven.
+Honestly, I do too. That's why I researched the subject and applied some of the findings to myself. It has served me decently so far.
 
-To go along with the podcast I've read most of their book recommendations and made the best effort possible to apply them to my personal life.
+## The short version
 
-So I thought now would be the right time to make a short blog post on the subject explaining how I've set up my life for happiness, health, wealth, and efficiency. It's been working pretty well so far.
+Let's start with the conclusion so you both know where I'm going and can stop reading if it sounds like bullshit to you.
 
-## Happiness
+Useful steps to increase happiness are:
 
-### The PERMA-V model
+- Identifying your life values
+  - Helps in decision-making
+- Learning how to have a healthy relationship with money
+  - Most people are not properly educated about money and use it in ways that does not increase their happiness
+- Being frugal and saving
+  - Low debt = lower stress
+  - Being content with little = easier to satisfy
+- Reaching your personal goals
+  - Dedicate time for your own improvement
+  - Lighten your cognitive load with personal knowledge management
+- Working out often
+  - Both cardio and and strength training are **required**
 
-{{< button href="https://rationalreminder.ca/podcast/148" target="_self" >}}
-Episode 148: Investing in Happiness
-{{< /button >}}
+Possible avenues to do with this are:
 
-Defining happiness is much more complicated than it seems. The [wiktionary definition](https://en.wiktionary.org/wiki/happy) is:
+- Saving 10% of your monthly income and investing it in broadly diversified index funds
+- Doing light cardio 3 times and weightlifting 2/3 times a week
+- Reading and listening high quality content
 
-> Having a feeling arising from a consciousness of well-being or of enjoyment
+## The long version
 
-Digging a big deeper you quickly hear about the PERMA-model. It was first defined in [Flourish, written by Seligman in 2011]( https://psycnet.apa.org/record/2010-25554-000 ).
+Now that the stage is set I will dive deeper into each bullet point with sources. I am not a researcher myself but listening to the [Rational Reminder Podcast](https://rationalreminder.ca/) for the last two years helped me discover quality books and research papers on the subject.
 
-This model suggests that life satisfaction is influenced by 5 factors:
-
-- Positive emotions
-- Engagement
-- Relationships
-- Meaning
-- Accomplishments
-
-Quickly a 6th one was added: **Vitality**. Hence you will often hear about the PERMA-V model.
-
-Everybody has different weights for those factors. Some people will derive more satisfaction from relationships while some others will live for meaning.
-
-But the factors are shared.
-
-This helps put things into context. If something does not have a positive impact on *any* of the six factors, it is easy to dismiss as not conducive to happiness.
-
-### Taking better decisions
+### Life values
 
 {{< button href="https://rationalreminder.ca/podcast/226" target="_self" >}}
 Episode 226: An Astronaut's Guide to Life on Earth
@@ -53,18 +48,6 @@ Episode 226: An Astronaut's Guide to Life on Earth
 > What matters the absolute most is what are you going to do next
 {{< /lead >}}
 
-Your life is just a series of small decisions of what to do next. We often forgive ourselves, our small decisions. They don't matter. That’s just a small decision.
-
-But that's all we got.
-
-Taking decisions is the only way we have an impact on our lives.
-
-So it makes sense that taking better decisions has a compounding effect on life quality. If you want to become happier you need to take the right decision over and over again.
-
-But how to know what makes a good decision? The PERMA-V model gives a us good framework to work with but it's still very abstract. It also needs to be adapted to every person as everybody prioritizes the factors differently.
-
-### Finding your life values
-
 {{< button href="https://rationalreminder.ca/podcast/237" target="_self" >}}
 Episode 237: Who are you and who do you want to be?
 {{< /button >}}
@@ -73,17 +56,19 @@ Episode 237: Who are you and who do you want to be?
 > Your decisions offer the only way to purposefully influence anything in your life
 {{< /lead >}}
 
-Episode 237 is perhaps the most interesting of all. Ben Felix mixed many different methods and approaches to finding one's life values and express them. He tried to create a unified method to identify and apply one's life goals to decision-making.
+Knowing what our values are helps us take life decisions. And taking decisions is the only way we affect our lives.
 
-{{< tweet user="benjaminwfelix" id="1634377782535806978" >}}
+[Ben Felix](https://twitter.com/benjaminwfelix/status/1634377782535806978) offered a way to uncover one's values in episode 237 based on learnings from the following books and papers:
 
-He distilled it to a multi-step process that helps you identify, refine, validate, and express your goals.
+- [Finding and Funding a Good Life](https://www.pwlcapital.com/finding-and-funding-a-good-life/) - Ben Felix
+- [Get it Done: Surprising Lessons from the Science of Motivation](https://books.google.co.jp/books/about/Get_it_Done.html?id=nnNHEAAAQBAJ&source=kp_book_description&redir_esc=y) - Ayelet Fishbach
+- [Flourish, A Visionary New Understanding of Happiness and Well-being](https://www.google.co.jp/books/edition/Flourish/YVAQVa0dAE8C?hl=en&gbpv=0), aka the [PERMA model](https://positivepsychology.com/perma-model/) - Seligman
+- [Give Yourself a Nudge: Helping Smart People Make Smarter Personal and Business Decisions](https://books.google.co.jp/books/about/Give_Yourself_a_Nudge.html?id=Cn3UDwAAQBAJ&source=kp_book_description&redir_esc=y) - Ralph Keeney
+- [Code, The Power of I Will](https://www.google.co.jp/books/edition/Code/5OXAX8sies0C?hl=en&gbpv=0) - Shaun Thompson
 
-This is meant to take hours and be spread across multiple days to give yourself more time to identify what matters to you.
+This is a multi-days process but your values should be pretty stable during your life once you've written them down. The time investment is worth it.
 
-Thankfully your life values tend to be pretty stable over of your life. You likely won't need to go through the whole process a second time and the list will only need minor updates every few years.
-
-While doing some of the steps remember that experienced happiness is more in the day-to-day life than it is in stable circumstances. When thinking about a dream job, also think about the higher workload, longer commutes, and added pressure. Make sure you draw up a life that suits you.
+The method is made of the following 4 steps:
 
 {{< timeline >}}
 
@@ -110,7 +95,7 @@ To elicit more goals, try to:
     <li>Reflect on both very good and very bad decisions you've made and recognize what values were achieved/missed</li>
     <li>Imagine yourself at different ages in the future and think about what you would <b>regret</b> not having done</li>
     <li>Inquire about the perspectives of your family and friends and think carefully about whether these suggested values are appropriate for you</li>
-    <li>Think about the 6 factors in the PERMA model and how they each affect you</li>
+    <li>Think about the <a href=https://positivepsychology.com/perma-model/>6 factors in the PERMA model</a> and how they each affect you</li>
 </ul>
 </p>
 {{< /timelineItem >}}
@@ -127,7 +112,7 @@ This will help you identify any missed goals and after this you should have betw
     icon="wand-magic-sparkles"
     header="Express your goals"
     >}}
-<p>Finally, you need to express that list into a set of actionable <b>values</b>.</p>
+<p>Finally you need to express that list into a set of actionable <b>values</b>.</p>
 First, cleanup your list by:
 <ul>
     <li>Ordering goals by category to identify links</li>
@@ -165,76 +150,9 @@ My means values, *ie* values that help me achieve those 5 strategic values, are:
 - I will be financially successful
 - I will be performant
 
-So let's dive into the means to my ends as that's what's most broadly applicable.
+Knowing what those are didn't make me happier but it's making some of my decisions simpler and pushes me in the right direction!
 
-## Health
-
-### Physical activity
-
-I've always known physical activity was key to health. In all my life I have always tried to walk daily and have at least some cardiovascular exercise regularly.
-
-In 2013-2014 I went to the gym regularly but unfortunately suffered from [fuckarounditis](https://leangains.com/fuckarounditis/).
-
-From 2014 to 2022 I did brief 1-month gym stints and bouts of cardiovascular exercise but I never really sticked to it. It always lasted a few weeks then I'd go back to playing LoL. I was concerned about my weight at ~73kgs for 1m74.
-
-I decided to take my health seriously in 2022. I signed up to the nearby gym and vowed to follow the [WHO guidelines](https://www.who.int/news-room/fact-sheets/detail/physical-activity) on weekly physical activity:
-
-- At least 75–150 minutes of vigorous-intensity aerobic physical activity
-- Muscle-strengthening activities at moderate or greater intensity that involve all major muscle groups on 2 or more days a week
-
-Yes, **basic** physical activity recommendations from the WHO include resistance training, aka weightlifting, at least twice a week.
-
-To give myself some structure regarding weightlifting I decided to follow the [5/3/1 program](https://thefitness.wiki/routines/5-3-1-for-beginners/):
-
-- Great for beginners
-- Focus on Squat, Deadlift, and Bench
-- 3 weeks cycles with 3 training sessions per week
-- Highly structured and steady progression
-
-It's a conservative approach to weightlifting but it let me learn good form and technique while progressing safely. I never hurt myself following the program and I put on around 4kgs of muscle in the past year.
-
-{{< tweet user="TolkiCasts" id="1609355138627686400" >}}
-
-Regarding cardiovascular health I focused on High Intensity Interval Training twice a week with some sprinkling of swimming, hiking, running and cycling. My wife loves [Body Pump](https://www.lesmills.com/workouts/fitness-classes/bodypump/) classes so that's our go-to for cardio.
-
-If you want high quality information on fitness I highly recommend the following Youtube channels:
-
-- [Jeff Nippard](https://www.youtube.com/channel/UC68TLK0mAEzUyHx5x5k-S1Q)
-- [Renaissance Periodization](https://www.youtube.com/channel/UCfQgsKhHjSyRLOp9mnffqVg)
-- [Sean Nalewanyj](https://www.youtube.com/channel/UCGXRegKvroyGv8HbN35AjKA)
-
-### Diet
-
-As I put on quite some fat as well in the past 3 months trying to reach my lifting goals I am now beginning a weight loss phase. By losing ~250g per week I should be able to keep my muscle mass while not having to make too much effort on my diet. I want to go from 20% body fat to 15% which means losing 4kgs for me.
-
-So how do you do that? What's a healthy diet, and how do you control your weight?
-
-A healthy diet is pretty clearly defined by now:
-
-- Hit your daily vitamins and mineral intake goals
-  - The easiest way to do that is to eat fruits and vegetables
-  - Supplementation can help
-- Ingest calories around your maintenance level
-  - Use a [calories calculator](https://www.calculator.net/calorie-calculator.html) to get a rough estimate
-- Have decent amounts of all 3 macro-nutrients
-  - Protein: At least ~1g per kg of bodyweight, [up to 2g if building muscle](https://www.youtube.com/watch?v=l7jIU_73ZaM)
-  - Fat + Carbs: the rest of your daily calories
-
-Weight loss is also mostly solved at this point. It may sound obvious to some of you but **calories** are almost all that matters.
-
-I don't track my calories too closely with a [calories counter app](https://en.wikipedia.org/wiki/MyFitnessPal) but I like having a rough estimate in mind so I regularly check labels of the food I buy.
-
-And when I start a weight loss phase I count for a few days to make sure I'm setting things up properly then I continue on the same path until I've reached my goal weight. That's it. There's no need for weird tricks or miracle cures.
-
-Losing weight is a marathon, not a sprint, and [taking it slow is what yields the best results](https://www.youtube.com/watch?v=TaaA2fsuXZU). Slow and steady wins the race.
-
-There are also some small optimizations you can make to your diet, but those have minimal impact compared to the basics:
-
-- Eating at maintenance level on weekends to make sure your metabolism does not slow down
-- Eating a snack with proteins and carbs [~1h before working out as it improves performance](https://www.youtube.com/watch?v=PM8kiHcAD7Q)
-- [Taking 5g of creatine daily](https://rpstrength.com/expert-advice/everything-you-need-to-know-about-creatine)
-
-## Wealth
+### Wealth and frugality
 
 {{< button href="https://rationalreminder.ca/podcast/128" target="_self" >}}
 Episode 128: The Psychology of Money
@@ -244,97 +162,77 @@ Episode 128: The Psychology of Money
 > The greatest intrinsic value [of money] is independence
 {{< /lead >}}
 
-Wealth and money often gets a bad rep because people think it's a goal when it's a mean.
+[The Psychology of Money](https://books.google.co.jp/books/about/The_Psychology_of_Money_Timeless_Lessons.html?id=AmxozwEACAAJ&source=kp_book_description&redir_esc=y) - Morgan Housel
 
-I can't recommend reading [The Psychology of Money](https://books.google.co.jp/books/about/The_Psychology_of_Money_Timeless_Lessons.html?id=AmxozwEACAAJ&source=kp_book_description&redir_esc=y) enough. It's a great book on the behavioral side of money touching on the impact of luck, education, and personal decisions on wealth.
+It's unfortunate that money is such a taboo topic in society. People take for granted that we all know what money is and how it should be used. But very few people understand how to use money to increase their happiness.
 
-Here are some of the points I found the most important
+Common Sense Investing made a great video on the subject:
 
-- Everybody takes money decisions that they think are the best given their life values and experiences
-- Knowing when it is enough is crucial for happiness as it is easy to fall into the trap of [hedonic adaptation](https://en.wikipedia.org/wiki/Hedonic_treadmill) and always want more, not realizing you will soon adapt to this bigger lifestyle while not having increased your happiness
-- Compound interest is the key to wealth and only manifests if you are patient
-- Your biggest returns will come from the **end** of your investment by definition of compounding
-- Getting wealthy requires optimism and risk taking, staying wealthy requires pessimism and conservative decisions
-- What you see of somebody is what they **spent** their money on, it the opposite of wealth
-- How wealthy someone is does not translate into fancy cars and big houses
-- To have financial freedom, you **need** to be saving money
-- You don't need to be saving towards a specific goal, saving is the goal in itself as wealth is what will give you more freedom
-- If you cannot save you should consider relocating to a place with a lower cost of living
-- Do what makes sense for you and helps you sleep at night
-- It can be financially irrational, it's still the right decision if it makes you happier
-- You cannot imagine what will come in the future so your best bet is being able to face many different options
+{{< youtube iNZk-N6uDcg >}}
 
-For me, this translate to:
+A short overview of the video is that:
 
-- Investing monthly into worldwide diversified stock index funds (MSCI World)
-- Staying frugal and limiting my spending on goods
-- Focusing my spending on experiences
-- Highly valuing my time and freedom
+- Money is a necessity to meet basic needs and reduce stress
+- Time is more valuable than money once [income satiation for experienced happiness is reached (~60k USD/year)](https://www.nature.com/articles/s41562-017-0277-0)
+- Spending on expensive goods rarely increases happiness because of [hedonic adaptation](https://en.wikipedia.org/wiki/Hedonic_treadmill)
+  - We tend to quickly adapt to our situation, and a bigger home or better car rarely translates into sustained increased happiness
+- The best **experiences** don't have to be expensive and frugality has a positive impact on happiness
+- Compounding is an unstoppable force if time is on your side (aka if you're young)
+  - [Investing has been solved](https://www.youtube.com/watch?v=TI5p8vqdjTw): buy capitalization-based stocks index funds (MSCI World for example)
+- Wealth is the money you *don't* spend and helps you face unexpected circumstances
 
-## Efficiency
+Good things to spend money to increase happiness on are:
 
-Finally, the last means to my goals is the ultimate means: efficiency.
+- Saving time
+- Active leisure activities and hobbies
+- Shared experiences with other people
+- Frequent small pleasures
 
-If I can do more in a day, I will learn more, earn more, have more time for physical activity, have more time for gaming, and be happier.
+### Reaching Goals
 
-I don't want to be efficient for my work or for others. I want to be efficient for my own life. I don't want to waste my short time on earth.
+#### Time management
 
-And I'm usually known for that amongst my friends and family. People often come to me with productivity-related questions or to talk to me about new tools.
+As accomplishments are an important part of happiness according to the PERMA model, becoming better at reaching your own goals has a positive impact on happiness.
 
-I will not talk about AI here even though it's a huge efficiency and productivity boost as it's still too young for me to give good advice on it.
+Those goals could be learning a new language, learning to draw, to play an instrument, to get to Challenger in LoL, ... And they're challenging and time-consuming. So how to reach them reliably?
 
-But I can give decent advice on time and knowledge management.
+[The 1908 book How to Live on Twenty-four Hours a Day](https://en.wikipedia.org/wiki/How_to_Live_on_24_Hours_a_Day) mostly got it right a century ago. It's a very short read which you can go through in one sitting.
 
-### Habits and time usage
+Simply put:
 
-Weirdly enough, [the 1908 book How to Live on Twenty-four Hours a Day](https://en.wikipedia.org/wiki/How_to_Live_on_24_Hours_a_Day) mostly got it right a century ago. It's a very short read which you can go through in one sitting so I highly recommend it.
+- Spend time daily on self-reflection
+  - That can be on the commute, in the shower, anywhere really. But take some time to look back
+- Don't forget that even if you work 8 hours a day you still have 16 hours for yourself on weekdays. Don't just dismiss those hours.
+- Claim 90 minutes for yourself 3 evenings a week and use those for self improvement and education
 
-My favorite advice from it is:
+#### Knowledge
 
-- View the 24-hour day as two separate days, one encompassing the 8-hour workday and the other a 16-hour personal day to be accounted for and utilized
-- Reflect on yourself
-- Claim 90 minutes for yourself for three evenings a week and use those for self improvement and education
+Another important piece of the accomplishment puzzle is being able to offload your cognitive load and reduce stress. We all have many things going on at once so **writing information** down is the only reliably way to remember it.
 
-That's pretty much how I conducted my life before reading the book anyways. I disconnect as much as possible from work outside of 09:00-18:00 and my daily routine includes:
-
-- Studying Japanese ~30 minutes throughout the day with flashcards
-- Reading ~30 minutes before going to bed
-- Working out ~1h on 5/7 days
-
-Taking time to improve yourself daily is a great helper to happiness!
-
-### Knowledge management
-
-I've always realized the power of good note taking and information organization. But until last year I never put much thought into it.
-
-I wrote a post about it recently going in depth on the different solutions I tried.
+This is a field called Personal Knowledge Management and I was introduced to it by the book [Building a Second Brain by Tiago Forte](https://www.buildingasecondbrain.com/). I wrote a full article on it recently so you can go there if you want a deeper look at it:
 
 {{< article link="/posts/2022/pkm/" >}}
 
-To keep things short, I follow the CODE system:
+### Health
 
-- Capture notes in my Inbox as they come
-- Organize them weekly in project and resources folders
-- Distill their content by shortening them and writing TL;DR every time I go back to them
-- Expressing what's in my note by making meta-notes or blog posts regularly
+Another key part of happiness is health. Interestingly almost no one follows the [**basic** weekly activity recommendations by the WHO for adults aged 18-64](https://www.who.int/news-room/fact-sheets/detail/physical-activity):
 
-With Notion as my note-taking and task-tracking app this system has served me well so far.
+- At least 300 minutes of moderate-intensity aerobic physical activity or at least 150 minutes of vigorous-intensity aerobic physical activity
+- Do muscle-strengthening activities at moderate or greater intensity that involve all major muscle groups on 2 or more days a week
+- To help reduce the detrimental effects of high levels of sedentary behavior on health, all adults and older adults should aim to do **more** than the recommended levels of intensity physical activity
 
-Taking notes and organizing information helps with information retention, helps with quickly finding references, and helps with offloading information from our brain for later access.
+There's not much more to say:
 
-Becoming better at it really helped me relax more and be more efficient in my own life. Instead of doing the same job two or three times, I can usually refer to my past notes and gain time.
+- Do your cardio
+  - Find what you like, there are too many options for you to hate them all! Running, cycling, rowing, walking, HIIT, team sports, ...
+- Do strength training at least twice a week
+  - This can be calisthenics if you don't have access to a gym
+  - It can be lifting if you enjoy it, I personally [followed the 5/3/1 program](https://thefitness.wiki/routines/5-3-1-for-beginners/) until I reached my strength goals
+- [Make it **non negotiable** and a part of your daily life](https://www.youtube.com/watch?v=lpchVL4VqEI)
+  - You should view physical activity as a *core* part of your life just as important as sleeping and eating
 
-## TL;DR
+## Closing thoughts
 
-As this is already longer than I wanted this to be, let's recap:
+As I started from the conclusion there is not much for me to add here.
 
-- Happiness is a product of multiple factors defined by the PERMA-V model
-- Uncovering your life values will help you take better decisions for happiness
-- Health matters and includes good diet as well as resistance and cardiovascular training
-- Wealth gives you freedom to pursue your goals and agency in life
-- Wealth is what you don't spend
-- Efficiency is an overarching mean to all goals
-
-Don't hesitate to shoot me a message on Twitter if you have any advice for me!
-
-In the meanwhile, I'm going to the gym with my Japanese flashcards.
+Hopefully at least one of the paragraphs sparked some interest in you, and don't hesitate to ping me on Mastodon/Twitter if you think I'm missing something here!
