@@ -41,16 +41,8 @@ Now that the stage is set I will dive deeper into each bullet point with sources
 
 ### Life values
 
-{{< button href="https://rationalreminder.ca/podcast/226" target="_self" >}}
+{{< button href="<https://rationalreminder.ca/podcast/226>" target="_self" >}}
 Episode 226: An Astronaut's Guide to Life on Earth
-{{< /button >}}
-
-{{< lead >}}
-> What matters the absolute most is what are you going to do next
-{{< /lead >}}
-
-{{< button href="https://rationalreminder.ca/podcast/237" target="_self" >}}
-Episode 237: Who are you and who do you want to be?
 {{< /button >}}
 
 {{< lead >}}
@@ -155,7 +147,7 @@ Knowing what those are didn't make me happier but it's making some of my decisio
 
 ### Wealth and frugality
 
-{{< button href="https://rationalreminder.ca/podcast/128" target="_self" >}}
+{{< button href="<https://rationalreminder.ca/podcast/128>" target="_self" >}}
 Episode 128: The Psychology of Money
 {{< /button >}}
 
