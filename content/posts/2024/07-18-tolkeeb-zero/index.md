@@ -1,5 +1,5 @@
 ---
-title: "This is the ideal keyboard body.You may not like it, but this is what peak performance looks like."
+title: "This is the ideal keyboard body. You may not like it, but this is what peak performance looks like."
 categories: Productivity
 date: 2024-07-18
 tags:
