@@ -1,5 +1,5 @@
 ---
-title: "Move less, type more"
+title: "Keys to Typing Bliss"
 categories: Productivity
 date: 2024-07-29
 tags:
