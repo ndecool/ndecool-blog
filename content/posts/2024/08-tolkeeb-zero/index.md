@@ -9,8 +9,8 @@ tags:
 - QLV
 draft: true
 
-series: ["Keyboards in 2024"]
-series_order: 3
+# series: ["Keyboards in 2024"]
+# series_order: 3
 ---
 
 Fix list:
