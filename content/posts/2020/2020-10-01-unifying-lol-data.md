@@ -72,7 +72,7 @@ In particular, making the data format intuitive meant putting objects as close a
 
 After many iterations, we agreed on this data structure, showing only list and dictionary fields:
 
-```
+```log
 game: dict
 ├── sources: dict
 ├── teams: dict
@@ -180,7 +180,7 @@ The next steps are to:
 
 - Update `riot-transmute` to add compatibility with games played before season 8 and test them thoroughly
 
-- Write a `Go` implementation of `riot-transmute` running a local API in Docker to allow for much faster parsing and easier compatibility with any programming language
+- Write a `Rust` implementation of `riot-transmute` to increase performance while still being Python-compatible with PyO3
 
 My goal with this standard is to empower experienced developers, simplify compatibility between community tools, and help new developers. I think switching over to this new data format is a net positive for everybody.
 

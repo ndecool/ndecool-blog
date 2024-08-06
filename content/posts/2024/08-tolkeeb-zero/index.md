@@ -1,5 +1,5 @@
 ---
-title: "Tolkeeb Zero"
+title: "What I learned making my own keyboard"
 categories: Productivity
 date: 2024-08-01
 tags:
