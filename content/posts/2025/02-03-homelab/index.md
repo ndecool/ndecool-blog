@@ -1,6 +1,6 @@
 ---
 title: "Refreshing my home server"
-date: 2025-02-30
+date: 2025-02-03
 tags:
 - Homelab
 
