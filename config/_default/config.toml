@@ -3,7 +3,6 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = "blowfish"
-title = 'Blog de Nathan'
 baseURL = "https://blog.net-direction.fr"
 defaultContentLanguage = "en"
 

@@ -17,28 +17,6 @@ name = "Blog"
 pageRef = "posts"
 weight = 10
 
-# [[main]]
-# name = "Parent"
-# weight = 20
-
-# [[main]]
-# name = "example sub-menu 1"
-# parent = "Parent"
-# pageRef = "posts"
-# weight = 20
-
-# [[main]]
-# name = "example sub-menu 2"
-# parent = "Parent"
-# pageRef = "posts"
-# weight = 20
-
-# TODO Sub-nav looked terrible
-# [[subnavigation]]
-# name = "An interesting topic"
-# pageRef = "tags/interesting-topic"
-# weight = 10
-
 [[main]]
 name = "Tags"
 pageRef = "tags"
@@ -48,18 +26,3 @@ weight = 30
 pre = "github"
 url = "https://github.com/mrtolkien/"
 weight = 120
-
-# -- Footer Menu --
-# The footer menu is displayed at the bottom of the page, just before
-# the copyright notice. Configure as per the main menu above.
-
-
-# [[footer]]
-# name = "Tags"
-# pageRef = "tags"
-# weight = 10
-
-# [[footer]]
-# name = "Categories"
-# pageRef = "categories"
-# weight = 20
