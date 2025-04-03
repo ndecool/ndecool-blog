@@ -3,8 +3,9 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = "blowfish"
+title = 'Blog de Nathan'
 baseURL = "https://blog.net-direction.fr"
-defaultContentLanguage = "en"
+defaultContentLanguage = "fr"
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 
